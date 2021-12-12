@@ -33,3 +33,7 @@ Include class diagrams for all classes in Readme
 ![screenshoot](https://raw.githubusercontent.com/PazSheimy/COP-3003-Integration-Project-BlockChain/main/Screenshot%20(768).png)
 
 
+
+# Referecces:
+https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54
+
