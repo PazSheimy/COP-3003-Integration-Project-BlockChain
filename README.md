@@ -28,4 +28,6 @@ Include class diagrams for all classes in Readme
 
 ![image](https://user-images.githubusercontent.com/85569927/145729123-a94385f4-a638-4ece-8fb7-e29b8464a8cf.png)
 
+# Image of project runnig.
+![screenshoot](https://raw.githubusercontent.com/PazSheimy/IntegrationProjectBackup/master/Screenshot%20(666).png)
 
