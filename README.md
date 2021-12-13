@@ -33,12 +33,13 @@ Include class diagrams for all classes in Readme
 
 ![image](https://user-images.githubusercontent.com/85569927/145729123-a94385f4-a638-4ece-8fb7-e29b8464a8cf.png)
 
-# Image of project runnig.
+# Images: 
+project running.
 ![screenshoot](https://raw.githubusercontent.com/PazSheimy/COP-3003-Integration-Project-BlockChain/main/Screenshot%20(767).png)
 ![screenshoot](https://raw.githubusercontent.com/PazSheimy/COP-3003-Integration-Project-BlockChain/main/Screenshot%20(768).png)
 
 
-# Referecces:
+# Refereces:
 A BlockChain in 200 lines of code.
 https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54
 
