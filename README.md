@@ -39,7 +39,7 @@ project running.
 ![screenshoot](https://raw.githubusercontent.com/PazSheimy/COP-3003-Integration-Project-BlockChain/main/Screenshot%20(768).png)
 
 
-# Refereces:
+# References:
 A BlockChain in 200 lines of code.
 https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54
 
